@@ -12,7 +12,7 @@ E estou atuando principalmente nas áreas de Gestão Tributária e Gestão de IS
 - 🚀 Aqui eu sempre estarei compartilhando os projetos que estou fazendo em algumas das linguagens que estudo atualmente.
 
 
-  
+<div style="display: inline_block"><br>  
 <div align="center">
   <a href="https://github.com/wanderalvess">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wanderalvess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
