@@ -5,11 +5,11 @@
 
 
 - 😄 Atualmente sou Analista de Sistemas pela SIGEP - Sistema Integrado de Gestão Pública.
-E estou atuando principalmente nas áreas de Gestão Tributária e Gestão de ISS, desenvolvendo e mantendo sistemas para uma Gestão Pública mais eficiente.
+E estou atuando principalmente nas áreas de Gestão Tributária e Gestão de ISS, e minha principal função é desenvolver e manter sistemas para otimizar a eficiência da gestão pública.
 
-- 🌱 Além do mais, sou estudante de Geografia - Licenciatura (IESA) pela Universidade Federal de Goiás (UFG), já em fase de finalização, com previsão para término no final de 2022.
+- 🌱 Além disso, estou me graduando em Geografia - Licenciatura (IESA) pela Universidade Federal de Goiás (UFG) e estou em fase de finalização do curso. E nessa ano comecei o curso de Analise e Desenvolvimento de sistemas na faculdade Descomplica.
 
-- 🚀 Aqui eu sempre estarei compartilhando os projetos que estou fazendo em algumas das linguagens que estudo atualmente.
+- 🚀 Aqui no GitHub, compartilho meus projetos desenvolvidos em diferentes linguagens que estou estudando atualmente. Espero contribuir com a comunidade e também aprimorar minhas habilidades como desenvolvedor.
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Wand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +17,7 @@ E estou atuando principalmente nas áreas de Gestão Tributária e Gestão de IS
 <img align="center" alt="Wand-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Wand-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 <img align="center" alt="Wand-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+<img align="center" alt="Wand-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <img align="center" alt="Wand-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 <img align="center" alt="Wand-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
