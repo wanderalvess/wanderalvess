@@ -1,15 +1,12 @@
-# Olá! Eu sou Wanderson Alves. 
+# Olá! Eu sou Wanderson Alves.
 
 ## Seja Bem Vindo ao meu GitHub 👋
 
+- 😄 Atualmente, desempenho a função de Analista de Desenvolvimento de Sistemas, com ênfase na linguagem Java, na TOTVS. Minha atuação se estende por diversas linguagens e frameworks, como Python, JSF, Angular, Flutter e Kotlin. Além disso, possuo experiência em tecnologias essenciais como Docker, Vm e Spring Boot.
 
+- 🌱 Iniciei minha jornada como desenvolvedor há 3 anos e desde então mantenho um compromisso constante com a aprendizagem, buscando entregar soluções eficientes e inovadoras para atender às demandas dos clientes.
 
-- 😄 Atualmente sou Analista de Sistemas pela SIGEP - Sistema Integrado de Gestão Pública.
-E estou atuando principalmente nas áreas de Gestão Tributária e Gestão de ISS, e minha principal função é desenvolver e manter sistemas para otimizar a eficiência da gestão pública.
-
-- 🌱 Além disso, estou me graduando em Geografia - Licenciatura (IESA) pela Universidade Federal de Goiás (UFG) e estou em fase de finalização do curso. E nessa ano comecei o curso de Analise e Desenvolvimento de sistemas na faculdade Descomplica.
-
-- 🚀 Aqui no GitHub, compartilho meus projetos desenvolvidos em diferentes linguagens que estou estudando atualmente. Espero contribuir com a comunidade e também aprimorar minhas habilidades como desenvolvedor.
+- 🚀 Aqui no GitHub, você encontrará meus projetos desenvolvidos em diferentes linguagens, refletindo minha paixão por explorar novas tecnologias. Estou empolgado em contribuir para a comunidade e aprimorar minhas habilidades como desenvolvedor. Sinta-se à vontade para explorar meus repositórios e entre em contato para discutirmos ideias e colaborações!
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Wand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
