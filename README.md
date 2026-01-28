@@ -4,7 +4,7 @@
 
 - 😄 Atualmente, desempenho a função de Analista de Desenvolvimento de Sistemas, com ênfase na linguagem Java, na TOTVS. Minha atuação se estende por diversas linguagens e frameworks, como Python, JSF, Angular, Flutter e Kotlin. Além disso, possuo experiência em tecnologias essenciais como Docker, Vm e Spring Boot.
 
-- 🌱 Iniciei minha jornada como desenvolvedor há 3 anos e desde então mantenho um compromisso constante com a aprendizagem, buscando entregar soluções eficientes e inovadoras para atender às demandas dos clientes.
+- 🌱 Iniciei minha jornada como desenvolvedor há 5 anos e desde então mantenho um compromisso constante com a aprendizagem, buscando entregar soluções eficientes e inovadoras para atender às demandas dos clientes.
 
 - 🚀 Aqui no GitHub, você encontrará meus projetos desenvolvidos em diferentes linguagens, refletindo minha paixão por explorar novas tecnologias. Estou empolgado em contribuir para a comunidade e aprimorar minhas habilidades como desenvolvedor. Sinta-se à vontade para explorar meus repositórios e entre em contato para discutirmos ideias e colaborações!
 
